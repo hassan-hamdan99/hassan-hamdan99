@@ -35,6 +35,14 @@ with real data and real customers.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4><a href="https://github.com/hassan-hamdan99/guarded-agent">🛡️ guarded-agent</a></h4>
+      An LLM agent that <b>writes</b> to a real system and still can't hurt it: approval gates enforced in code,
+      read-after-write checks that catch APIs lying about saves, PII allowlists, and evals.<br><br>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/tests-17%20passing-34d399?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/hassan-hamdan99/n8n-ai-agents">🤖 n8n-ai-agents</a></h4>
       WhatsApp and <b>pt-PT voice</b> receptionists that book real appointments: a debounced inbox, voice in and out,
       calendar tools over <b>MCP</b>, and authenticated, idempotent booking.<br><br>
@@ -42,6 +50,16 @@ with real data and real customers.
       <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white">
       <img src="https://img.shields.io/badge/MCP-111a2e?style=flat-square">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/hassan-hamdan99/boleto-br">🧾 boleto-br</a></h4>
+      Brazilian payment and fiscal identifiers: boletos with the <b>2025 due-date reset</b>, utility slips,
+      <b>alphanumeric CNPJ</b>, NF-e keys and <b>Pix</b> codes. Zero dependencies, verified against official examples.<br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Pix-32BCAD?style=flat-square&logo=pix&logoColor=white">
+      <img src="https://img.shields.io/badge/tests-46%20passing-34d399?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hassan-hamdan99/finance-dashboard">💸 finance-dashboard</a></h4>
@@ -53,21 +71,13 @@ with real data and real customers.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h4><a href="https://github.com/hassan-hamdan99/ticket-classifier">🎫 ticket-classifier</a></h4>
       Explainable ticket routing (department + category) that <b>masks personal data before the model sees it</b>.
       A cheap, auditable baseline to try before reaching for an LLM.<br><br>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/tests-44%20passing-34d399?style=flat-square">
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/hassan-hamdan99/guarded-agent">🛡️ guarded-agent</a></h4>
-      An LLM agent that <b>writes</b> to a real system and still can't hurt it: approval gates enforced in code,
-      read-after-write checks that catch APIs lying about saves, PII allowlists, and evals.<br><br>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/tests-17%20passing-34d399?style=flat-square">
     </td>
   </tr>
 </table>
