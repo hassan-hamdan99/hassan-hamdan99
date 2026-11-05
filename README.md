@@ -54,12 +54,12 @@ with real data and real customers.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/hassan-hamdan99/boleto-br">🧾 boleto-br</a></h4>
-      Brazilian payment and fiscal identifiers: boletos with the <b>2025 due-date reset</b>, utility slips,
-      <b>alphanumeric CNPJ</b>, NF-e keys and <b>Pix</b> codes. Zero dependencies, verified against official examples.<br><br>
+      <h4><a href="https://github.com/hassan-hamdan99/papelada">🧾 papelada</a></h4>
+      Brazilian financial paperwork, <b>read and checked by code</b>: boletos with typo suggestions for OCR/LLM
+      output, <b>NF-e XML</b> cross-checks, <b>alphanumeric CNPJ</b> and <b>Pix</b>. Zero dependencies.<br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/Pix-32BCAD?style=flat-square&logo=pix&logoColor=white">
-      <img src="https://img.shields.io/badge/tests-46%20passing-34d399?style=flat-square">
+      <img src="https://img.shields.io/badge/tests-71%20passing-34d399?style=flat-square">
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/hassan-hamdan99/finance-dashboard">💸 finance-dashboard</a></h4>
