@@ -71,13 +71,21 @@ with real data and real customers.
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/hassan-hamdan99/ticket-classifier">🎫 ticket-classifier</a></h4>
       Explainable ticket routing (department + category) that <b>masks personal data before the model sees it</b>.
       A cheap, auditable baseline to try before reaching for an LLM.<br><br>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/tests-44%20passing-34d399?style=flat-square">
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/hassan-hamdan99/omnivault">📚 omnivault</a> <sub><code>side project</code></sub></h4>
+      My own <b>self-hosted comics and manga library</b>: reads CBZ, CBR and PDF straight from Google Drive or local
+      folders, with reading progress per profile and a <b>PWA</b> for the PC, iPad and phone. Built for me, used every day.<br><br>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white">
+      <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
     </td>
   </tr>
 </table>
@@ -111,7 +119,7 @@ with real data and real customers.
 
 <table>
   <tr>
-    <td align="center" width="50%">📚<br><b>Comics & manga</b><br><sub>so much that I built my own reader</sub></td>
+    <td align="center" width="50%">📚<br><b>Comics & manga</b><br><sub>so much that I <a href="https://github.com/hassan-hamdan99/omnivault">built my own reader</a></sub></td>
     <td align="center" width="50%">🎮<br><b>Games</b><br><sub>still the best way to learn a system: break it</sub></td>
   </tr>
 </table>
