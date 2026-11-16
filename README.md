@@ -120,6 +120,6 @@ with real data and real customers.
 <table>
   <tr>
     <td align="center" width="50%">📚<br><b>Comics & manga</b><br><sub>so much that I <a href="https://github.com/hassan-hamdan99/omnivault">built my own reader</a></sub></td>
-    <td align="center" width="50%">🎮<br><b>Games</b><br><sub>still the best way to learn a system: break it</sub></td>
+    <td align="center" width="50%">🎮<br><b>Games</b><br><sub></sub></td>
   </tr>
 </table>
